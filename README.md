@@ -1,21 +1,3 @@
-### Hi there 👋
-
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19993
-Fork on GitHub
-6037
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Luke Slater</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukeslater0961&label=Profile%20views&color=0e75b6&style=flat" alt="lukeslater0961" /> </p>
 
