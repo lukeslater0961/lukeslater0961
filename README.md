@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Luke Slater</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukeslater0961&label=Profile%20views&color=0e75b6&style=flat" alt="lukeslater0961" /> </p>
+<h1 align="center">Luke Slater: Full-Time <a href="https://42angouleme.fr"> <img src="https://images.squarespace-cdn.com/content/v1/65d8c36ecf88631d9355461f/5d162657-c8b5-4353-a895-639e3141f510/logo42chips.png?format=1500w" Witdh="50" Height="50"></a> Student with a Passion for Video Game Development</h1>
 
-- 🔭 I’m currently working on **DNR**
+- 🔭 I’m currently working on **a personnal project**
 
 - 📫 How to reach me **luke.a.slater@outlook.com**
 
